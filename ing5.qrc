@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/\hl"/>
+    <qresource prefix="/hg"/>
+    <qresource prefix="/">
+        <file>img/chess5.jpg</file>
+        <file>img/chess8.jpg</file>
+        <file>img/chess9.ico</file>
+    </qresource>
+</RCC>
